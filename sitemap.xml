@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://elzinga.tech/</loc>
+  <lastmod>2022-05-29T03:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://elzinga.tech/2022/</loc>
+  <lastmod>2022-05-29T03:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://elzinga.tech/archive.html</loc>
+  <lastmod>2022-05-29T03:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://elzinga.tech/categories/</loc>
+  <lastmod>2022-05-29T03:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://elzinga.tech/galleries/</loc>
+  <lastmod>2022-05-29T03:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://elzinga.tech/listings/</loc>
+  <lastmod>2022-05-29T03:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://elzinga.tech/posts/welcome-to-ze-blog/</loc>
+  <lastmod>2022-05-29T03:05:00Z</lastmod>
+ </url>
+</urlset>
