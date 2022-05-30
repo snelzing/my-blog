@@ -25,7 +25,7 @@ SITE_URL = "https://elzinga.tech/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://elzinga.tech/"
 BLOG_EMAIL = "snelzing@fastmail.com"
-BLOG_DESCRIPTION = "You could have gone to Facebook or twiiter. But you came here instead. Good for you."  # (translatable)
+BLOG_DESCRIPTION = "You could have gone to Facebook or the twitters. But you came here instead. Good for you."  # (translatable)
 
 # Nikola is multilingual!
 #
