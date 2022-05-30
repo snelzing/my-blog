@@ -1,0 +1,4 @@
+Sitemap: https://elzinga.tech/sitemapindex.xml
+
+User-Agent: *
+Host: elzinga.tech
