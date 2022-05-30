@@ -4,7 +4,7 @@
 'render_taxonomies:output\\2022\\index.html', (1536, 2831)
 'copy_assets:output\\assets\\js\\baguetteBox.min.js', (4608, 479)
 'copy_assets:output\\assets\\js\\gallery.js', (5120, 463)
-'sitemap:output\\sitemap.xml', (5632, 1243)
+'sitemap:output\\sitemap.xml', (5632, 1241)
 'sitemap:output\\sitemapindex.xml', (7168, 255)
 'copy_assets:output\\assets\\js\\popper.min.js', (7680, 482)
 'copy_assets:output\\assets\\js\\jquery.min.js', (8192, 482)
